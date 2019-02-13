@@ -3,4 +3,4 @@ Developers: Jigar P &amp; Isaiah E. –– Maine 207 app allows everything a stu
 
 App link: http://maine207app.firebaseapp.com
 
-Business Plan Document: https://novusclub.org/competitions/Novus-Club-Maine-Business-Plan.pdf 
+Business Plan Document: http://bit.ly/maineappbusiness
